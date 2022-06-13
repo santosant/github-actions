@@ -1,5 +1,5 @@
 [x] - Initial structure
-[] - Install project dependecies
+[x] - Install project dependecies
 [] - Find dead-code in the application
 [] - Run tests
 
