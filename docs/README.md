@@ -1,6 +1,9 @@
 [x] - Initial structure
+
 [x] - Install project dependecies
-[] - Find dead-code in the application
+
+[x] - Find dead-code in the application
+
 [] - Run tests
 
 ## What are Actions?
